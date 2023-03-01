@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="IronPdf" />
-    <PackageReference Include="Microsoft.Extensions.Http" />
+    <PackageReference Include="IronPdf" Version="2023.2.4" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
   </ItemGroup>
   
   <ItemGroup>
